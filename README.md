@@ -19,7 +19,7 @@ path set with `#directory` in `rolling_moon.ml`.
 
 ## Launch the game
 
-Just run the command `make run-int` which will compile and run the game.
+Just run the command `make run-int` which will run the game.
 
 
 ## How to play
